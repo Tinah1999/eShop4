@@ -1,4 +1,4 @@
-﻿# 🛍️ eShop - Online Pet Store Web App
+﻿# 🛍️ eShop - Online shopping Website
 
 A full-featured **online shopping website** built with **PHP**, **MySQL**, **HTML**, **CSS**, **JavaScript (jQuery/Ajax)**, and **Bootstrap** (StartBootstrap template).  
 This project serves as an educational e-Commerce platform that supports product browsing, shopping cart functionality, and online payments via **PayPal**.
